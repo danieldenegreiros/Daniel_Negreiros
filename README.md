@@ -8,7 +8,7 @@ Olá, sou Daniel Lima de Negreiros. Tenho 46 anos e sou Técnico em Informática
 ### 📧 Contato:
 - 📱 Celular: (51) 99377-7133
 - 📧 E-mail: [daniel.denegreiros@gmail.com](mailto:daniel.denegreiros@gmail.com)
-- 🌐 [LinkedIn](#) *(https://www.linkedin.com/in/daniel-negreiros-834a8b23b/)*
+- 🌐 LinkedIn: (https://www.linkedin.com/in/daniel-negreiros-834a8b23b/)
 
 ---
 
