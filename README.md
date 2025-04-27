@@ -1,6 +1,6 @@
 # Portfólio Profissional
 
-## 👤 ![Sobre Mim](./minha-imagem.jpg)
+## 👤 Sobre Mim (./minha-imagem.jpg)
 
 Olá, sou Daniel Lima de Negreiros. Tenho 46 anos e sou Técnico em Informática, com ampla experiência em suporte técnico, manutenção de hardware, desenvolvimento web e design gráfico. Meu objetivo é sempre aprimorar minhas habilidades enquanto busco o desenvolvimento profissional e pessoal.
 
