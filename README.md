@@ -1,6 +1,6 @@
 # Portfólio Profissional
 
-## 👤 Sobre Mim
+## 👤 ![Sobre Mim](./img/minha-imagem.jpg)
 
 Olá, sou Daniel Lima de Negreiros. Tenho 46 anos e sou Técnico em Informática, com ampla experiência em suporte técnico, manutenção de hardware, desenvolvimento web e design gráfico. Meu objetivo é sempre aprimorar minhas habilidades enquanto busco o desenvolvimento profissional e pessoal.
 
@@ -13,6 +13,7 @@ Olá, sou Daniel Lima de Negreiros. Tenho 46 anos e sou Técnico em Informática
 
 ## 🎓 Formação Acadêmica
 
+- **Análise e Desenvolvimento de Sistemas** - UFBRA (2025)
 - **Técnico em Informática** - Escola Alcides Maya (2002)
 
 ---
@@ -68,8 +69,6 @@ Olá, sou Daniel Lima de Negreiros. Tenho 46 anos e sou Técnico em Informática
 Tenho experiência prática em diversas áreas de tecnologia e atendimento ao cliente. Sou apaixonado por aprender e sempre estou buscando formas de melhorar meu conhecimento, seja em hardware, software, ou design.
 
 ---
-
-
 
 Foi interessante entender como os serviços se conectam e podem ser escalados. A organização dos dados em diferentes camadas de acesso também é algo que pode trazer grande economia para empresas.
 
